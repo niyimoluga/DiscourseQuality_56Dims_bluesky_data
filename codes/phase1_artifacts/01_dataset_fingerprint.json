@@ -1,0 +1,15 @@
+{
+  "n_rows": 467125,
+  "n_columns": 454,
+  "expected_n_rows": 467125,
+  "context_cols_present": true,
+  "null_comment_id": 0,
+  "null_comment_text": 0,
+  "null_parent_text": 214540,
+  "null_root_text": 0,
+  "created_utc_min": 1748736003,
+  "created_utc_max": 1748908799,
+  "time_range_hours": 47.99888888888889,
+  "missing_score_columns": [],
+  "missing_score_columns_count": 0
+}

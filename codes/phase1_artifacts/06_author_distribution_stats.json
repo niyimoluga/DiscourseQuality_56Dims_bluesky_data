@@ -1,0 +1,11 @@
+{
+  "n_unique_dids": 139071,
+  "comments_per_did_min": 1,
+  "comments_per_did_25": 1.0,
+  "comments_per_did_50": 1.0,
+  "comments_per_did_75": 3.0,
+  "comments_per_did_95": 11.0,
+  "comments_per_did_max": 3050,
+  "pct_dids_with_1_comment": 50.1930668507453,
+  "pct_comments_from_top_1pct_dids": 15.781857104629381
+}

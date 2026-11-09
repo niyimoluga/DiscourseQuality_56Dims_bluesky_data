@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Large training artifacts
+*.pt
+*.bin
+*.ckpt
+wandb/
+checkpoint_epoch_*.pt
+best_model.pt
+test_predictions_author.csv
+test_predictions_temporal.csv
+*.log
+
+# Large image-only research-discussion export (91 MB)
+Deepseekchat.pdf

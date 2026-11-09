@@ -1,0 +1,17 @@
+{
+  "n_rows": 467125,
+  "pct_has_parent": 54.07225046829007,
+  "pct_has_root": 100.0,
+  "pct_has_both": 54.07225046829007,
+  "pct_missing_parent": 45.92774953170993,
+  "full_input_chars_p50": 545.0,
+  "full_input_chars_p95": 880.0,
+  "full_input_chars_p99": 927.0,
+  "full_input_chars_max": 1445.0,
+  "full_input_tokens_p50_approx": 136.25,
+  "full_input_tokens_p95_approx": 220.0,
+  "full_input_tokens_p99_approx": 231.75,
+  "pct_exceed_512_tokens_approx": 0.0,
+  "pct_exceed_384_tokens_approx": 0.0,
+  "pct_exceed_256_tokens_approx": 0.023334225314423335
+}
